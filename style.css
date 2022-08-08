@@ -1,0 +1,96 @@
+
+body{
+    font-family: Lucida Sans;
+    margin: 0;
+    background: black;
+}
+
+.navbar{
+    background: black;
+}
+
+.navbar ul{
+    margin-top: 16px;
+    padding: 25px;
+    list-style: none;
+    margin-left: 300px;
+}
+
+.navbar li{
+    font-size: 15px;
+    color: aliceblue;
+    padding: 12px;
+    display: inline;
+    padding: 50px;
+    cursor: pointer;
+}
+
+.navbar li:hover{
+    background-color: rgb(35, 35, 35);
+    border-radius: 90px;
+    color: rgb(255, 82, 52);
+    font-size: 7;
+}
+
+.tenis{
+    color: rgb(255, 82, 52);
+}
+
+.botao-comprar{
+    cursor: pointer;
+    color: white;
+    padding: 15px 40px;
+    border-bottom: 2px solid black;
+    background:rgb(255, 82, 52);;
+    border-radius: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+
+
+.geral-container{
+    display: grid;
+    margin-top: 120px;
+    margin-left: 140px;
+    grid-template-columns: 500px 600px;
+}
+
+h1{
+    font-size: 130px;
+    line-height: 0;
+}
+
+h3{
+    font-size: 25px;
+}
+
+.preco{
+    font-size: 30px;
+}
+
+.botao-comprar{
+    width: 150px;
+    height:60px;
+}
+
+.botao-comprar{
+   font-size: 20px;
+   border-bottom: 2px solid white;
+}
+
+.apresentacao{
+    color: white;
+    width: 400px;
+}
+
+.jordanimg{
+width: 700px;
+margin-left: -30px;
+margin-bottom: 12px;
+}
+
+.jordanlogo{
+    width: 100px;
+}
